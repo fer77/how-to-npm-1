@@ -1,0 +1,25 @@
+{
+  "name": "@fer777/how-to-npm",
+  "version": "1.0.0",
+  "description": "Nodeschool module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Fernandez",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fer77/NodeSchool.git"
+  },
+  "keywords": [
+    "nodeschool"
+  ],
+  "bugs": {
+    "url": "https://github.com/fer77/NodeSchool/issues"
+  },
+  "homepage": "https://github.com/fer77/NodeSchool#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
