@@ -19,7 +19,5 @@
     "url": "https://github.com/fer77/NodeSchool/issues"
   },
   "homepage": "https://github.com/fer77/NodeSchool#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
